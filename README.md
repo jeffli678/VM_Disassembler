@@ -32,3 +32,5 @@ It should return three things:
 ```instr_text```: the disassembly text of the current instruction
 
 ```possible_next_addrs```: a list of possible next addresses after the current instruction
+
+I hope this will be helpful for your next CTF. Issues and PRs are welcome! 
